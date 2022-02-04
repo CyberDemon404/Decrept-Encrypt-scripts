@@ -6,3 +6,4 @@ pip2 install requests
 pip2 install figlet
 pip2 install uncompyle6
 git clone https://GitHub.com/CyberDemon404/Decrept-Encrept-script
+python2 dec-enc.py
